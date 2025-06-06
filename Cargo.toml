@@ -1,0 +1,6 @@
+[package]
+name = "freelance-marketplace-tx"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
